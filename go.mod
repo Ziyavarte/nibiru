@@ -58,7 +58,7 @@ require (
 	cosmossdk.io/collections v0.4.0
 	cosmossdk.io/tools/rosetta v0.2.1
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
-	github.com/gorilla/websocket v1.5.0
+	github.com/gorilla/websocket v1.5.3
 	github.com/rs/cors v1.8.3
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 	golang.org/x/net v0.23.0
