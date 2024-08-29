@@ -59,7 +59,7 @@ require (
 	cosmossdk.io/tools/rosetta v0.2.1
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
 	github.com/gorilla/websocket v1.5.0
-	github.com/rs/cors v1.8.3
+	github.com/rs/cors v1.11.1
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 	golang.org/x/net v0.23.0
 	golang.org/x/text v0.14.0
